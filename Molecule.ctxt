@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Molecule()
+comment0.text=\r\n\ \r\n\ El\ tipo\ de\ mol\u00E9cula\ permitido\ debe\ contener\ los\ car\u00E1ctres\:\r\n\ "A","B","C","D"\ acompa\u00F1adas\ de\ "+",\ "-"\ y\ el\ s\u00EDmbolo\ "00".\r\n\ \r\n\ Ejemplo\ de\ mol\u00E9cula\ permitida\:\r\n\ ("A+\ B-\ C+\ D-")\ separado\ por\ espacios\ "\ ".\r\n
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=
+comment2.target=void\ makeVisible()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=
+comment3.target=void\ makeInvisible()
+comment4.params=
+comment4.target=void\ moveRight()
+comment5.params=
+comment5.target=void\ moveDown()
+comment6.params=distance
+comment6.target=void\ slowMoveHorizontal(int)
+comment7.params=distance
+comment7.target=void\ slowMoveVertical(int)
+numComments=8

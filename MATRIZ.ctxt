@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MATRIZ()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MATRIZ\r\n
+comment1.params=x\ y
+comment1.target=void\ fill(int,\ int)
+comment1.text=escoger\ numeros\ desde\ 1\ hasta\ el\ limite\ de\ altura\ y\ anchura\r\n
+comment2.params=x\ y
+comment2.target=void\ flip(int,\ int)
+comment3.params=
+comment3.target=void\ replicateWithoutBug()
+comment4.params=color\ x\ y
+comment4.target=void\ nexus(java.lang.String,\ int,\ int)
+comment4.text=ingrese\ el\ color\ y\ la\ posicon\ del\ nexo\r\n\ \ \ \ \ \ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ error()
+comment6.params=
+comment6.target=void\ recurrence()
+numComments=7
